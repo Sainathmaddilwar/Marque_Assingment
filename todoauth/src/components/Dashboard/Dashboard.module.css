@@ -1,0 +1,17 @@
+.todo {
+  display: flex;
+  flex-direction: column;
+  /* justify-content: center; */
+  align-items: center;
+  padding-top: 100px;
+}
+.todo_input {
+  display: flex;
+}
+.logout {
+  display: flex;
+  justify-content: flex-end;
+  padding-top: 20px;
+  padding-right: 50px;
+  size: 100px;
+}
